@@ -1,2 +1,2 @@
 # Softwares
-Archive of softwares
+Archive of softwares to be used for my learning of software fundamentals
